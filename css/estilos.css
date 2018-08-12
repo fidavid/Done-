@@ -110,6 +110,7 @@ footer div ul li a {
 }
 
 footer div ul {
+	list-style: none;
 	padding: 15px;
 }
 
